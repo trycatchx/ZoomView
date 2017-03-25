@@ -1,9 +1,9 @@
- # 1.引言
-
-
-###### 纯干货-旋转缩放图片的控件, 上效果图：
+###### 纯干货->旋转缩放图片的控件, 上效果图：
 
 
 
-###### 由于在网上copy了一份ZoomView，自己再修改一下一下bug， 已投入项目使用！
-代码复制粘贴可用（注释满满）
+
+
+
+![image](http://upload-images.jianshu.io/upload_images/2788235-f19a73ed25e7dd0a.gif?imageMogr2/auto-orient/strip)
+
